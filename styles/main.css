@@ -4,4 +4,5 @@
 @import 'base/utils.css';
 @import 'base/globals.css';
 
+@import 'components/button.css';
 @import 'components/header.css';
