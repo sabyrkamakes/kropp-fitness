@@ -60,3 +60,9 @@
   clip-path: inset(100%) !important;
   overflow: hidden !important;
 }
+
+@media (max-width: 767px) {
+  .section-description {
+    font-size: 16px;
+  }
+}
